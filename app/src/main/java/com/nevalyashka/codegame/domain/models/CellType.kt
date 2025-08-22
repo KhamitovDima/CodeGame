@@ -1,4 +1,4 @@
-package com.nevalyashka.codegame.domain.model
+package com.nevalyashka.codegame.domain.models
 
 enum class CellType {
     PATH,

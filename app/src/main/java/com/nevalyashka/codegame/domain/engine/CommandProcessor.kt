@@ -1,9 +1,9 @@
 package com.nevalyashka.codegame.domain.engine
 
-import com.nevalyashka.codegame.domain.model.Board
-import com.nevalyashka.codegame.domain.model.Command
-import com.nevalyashka.codegame.domain.model.GameFunction
-import com.nevalyashka.codegame.domain.model.PlayerState
+import com.nevalyashka.codegame.domain.models.Board
+import com.nevalyashka.codegame.domain.models.Command
+import com.nevalyashka.codegame.domain.models.GameFunction
+import com.nevalyashka.codegame.domain.models.PlayerState
 
 class CommandProcessor {
 

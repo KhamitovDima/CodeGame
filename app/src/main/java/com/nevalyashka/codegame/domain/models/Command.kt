@@ -1,4 +1,4 @@
-package com.nevalyashka.codegame.domain.model
+package com.nevalyashka.codegame.domain.models
 
 sealed interface Command {
     object MoveForward : Command
