@@ -1,4 +1,4 @@
-package com.nevalyashka.codegame.ui.theme
+package com.nevalyashka.codegame.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
