@@ -7,7 +7,7 @@ import com.nevalyashka.codegame.domain.models.Direction
 import com.nevalyashka.codegame.domain.models.GameFunction
 import com.nevalyashka.codegame.domain.models.PlayerState
 
-class CommandProcessor {
+object CommandProcessor {
 
     fun processCommands(
         board: Board,
